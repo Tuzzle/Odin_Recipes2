@@ -1,0 +1,14 @@
+.cheese, .crepe, .shrimp {
+    text-align: center;
+    color: rgb(226, 155, 21);
+    background-color: black;
+}
+#title-top {
+    font-size: 50px;
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.shrimp {
+    height: auto;
+    width: 800px;
+}
